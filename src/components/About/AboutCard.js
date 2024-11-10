@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a Full stack developer Intern at NVIDIA.
             <br />
-            I have completed B.tech(Computer Science Engineering) at SRM
-            institute of science and technology in chennai.
+            I have completed B.tech (Computer Science Engineering) at vit in chennai.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
